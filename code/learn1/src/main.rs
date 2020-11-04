@@ -18,5 +18,5 @@ fn get_age(age:i32)->i32{
 fn get_name(){
     let s = "broadcast";
 
-    println!("{}",s.to_string());
+    println!("{}",s.len());
 }

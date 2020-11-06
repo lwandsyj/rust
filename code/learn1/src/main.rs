@@ -2,14 +2,15 @@
 
 fn main() {
    let  a="hello";
-   let mut b=a;
-   b="world";
+   let b=String::from(a);
+   //let  b=a;
+   show(b);
    println!("{}",a);
     
    println!("{}",b);
 }
 
-fn show(b:&str){
+fn show(b:String){
     println!("{}",b);
 }
 

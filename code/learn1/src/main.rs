@@ -1,25 +1,21 @@
-fn main() {
-    testFor();
+struct Point{
+    x:i32,
+    y:i32
 }
-
-fn get_age(age:i32)->i32{
-   if age>0 && age<6 {
-       return 6;
-   }else if age ==8{
-       return 8;
-   }else{
-       return 3;
-   }
-}
-
-fn get_name(){
-    let s = "broadcast";
-
-    println!("{}",s.len());
-}
-
-fn testFor(){
-    for i in 1..10 {
-        println!(i);
+impl Point{
+    fn new(x:i32,y:i32)->Point{
+        Point{x,y}
+    }
+    fn get_y(&mut self)->i32{
+        self.y=self.y+4;
+        return self.y;
     }
 }
+
+fn main() {
+   let add =|a:i32,b:i32| a+b;
+   let val = add(2,3);
+   println!("{}",val);
+}
+
+

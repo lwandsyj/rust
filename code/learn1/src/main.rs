@@ -1,16 +1,12 @@
 
 
 fn main() {
-   let  a="hello";
-   let b=String::from(a);
-   //let  b=a;
-   show(b);
-   println!("{}",a);
-    
-   println!("{}",b);
-}
 
-fn show(b:String){
-    println!("{}",b);
+   let mut b=String::from("hello");
+   let   c=&mut b;
+   c.push_str("123");
+  println!("{}",b);
+    
+   println!("{}",c);
 }
 

@@ -1,6 +1,5 @@
 
 mod test;
-mod util;
 use crate::test::array_test::{test};
 use crate::util::redis::{connection,dispose};
 

@@ -1,1 +1,1 @@
-/Users/slashare/zongjie/rust/code/learn1/target/debug/learn1: /Users/slashare/zongjie/rust/code/learn1/src/main.rs
+/Users/slashare/zongjie/rust/code/learn1/target/debug/learn1: /Users/slashare/zongjie/rust/code/learn1/src/main.rs /Users/slashare/zongjie/rust/code/learn1/src/test.rs /Users/slashare/zongjie/rust/code/learn1/src/util/helper.rs /Users/slashare/zongjie/rust/code/learn1/src/util/mod.rs /Users/slashare/zongjie/rust/code/learn1/src/util/redis.rs

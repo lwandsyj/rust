@@ -1,0 +1,13 @@
+/Users/slashare/zongjie/rust/code/messages-actix/target/debug/deps/url-544cacba680ece65.rmeta: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/slashare/zongjie/rust/code/messages-actix/target/debug/deps/liburl-544cacba680ece65.rlib: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/slashare/zongjie/rust/code/messages-actix/target/debug/deps/url-544cacba680ece65.d: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs:

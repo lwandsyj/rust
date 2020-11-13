@@ -1,0 +1,10 @@
+/Users/slashare/zongjie/rust/code/messages-actix/target/rls/debug/deps/futures_channel-7636bc4402a85db7.rmeta: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/sink_impl.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs
+
+/Users/slashare/zongjie/rust/code/messages-actix/target/rls/debug/deps/futures_channel-7636bc4402a85db7.d: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/sink_impl.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs
+
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/sink_impl.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs:

@@ -1,0 +1,14 @@
+/Users/slashare/zongjie/rust/code/messages-actix/target/rls/debug/deps/awc-1eaada8db00a0da6.rmeta: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/builder.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/connect.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/error.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/frozen.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/request.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/response.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/sender.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/test.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/ws.rs
+
+/Users/slashare/zongjie/rust/code/messages-actix/target/rls/debug/deps/awc-1eaada8db00a0da6.d: /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/lib.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/builder.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/connect.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/error.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/frozen.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/request.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/response.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/sender.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/test.rs /Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/ws.rs
+
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/lib.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/builder.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/connect.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/error.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/frozen.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/request.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/response.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/sender.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/test.rs:
+/Users/slashare/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.1/src/ws.rs:

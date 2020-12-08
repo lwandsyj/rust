@@ -1,23 +1,18 @@
-fn main(){
-    let mut arr =vec![1,3,100];
-    maximum_gap(arr);
+pub trait Add<RHS =Self> {
+    type Output;
+    fn add(self,rhs:RHS) -> Self::Output;
 }
 
- fn maximum_gap(mut nums: Vec<i32>) -> i32 {
-    let len=nums.len();
-    if len < 2 {
-        return 0;
+impl Add for i32 {
+    type Output = i32;
+    fn add(self,rhs:i32)->i32{
+        self+rhs
     }
-    nums.sort();
-    let mut max =0;
-    for i in 0..len-1 {
-        let last = nums[(i+1)];
-        let current =nums[i];
-        let tmp = last-current;
-        if max < tmp {
-            max=tmp;
-        }
-    }
-    println!("{:?}",max);
-    return max;
 }
+fn main(){
+    let x:i32 = 1;
+    let z=x.add(3);
+    println!("{:?}",z);
+     
+}
+

@@ -1,18 +1,13 @@
-pub trait Add<RHS =Self> {
-    type Output;
-    fn add(self,rhs:RHS) -> Self::Output;
+
+fn test_slice(slice:&[u32])->String{
+    slice.iter().map(|x| x.to_string()).collect::<Vec<String>>().join("")
+    
 }
 
-impl Add for i32 {
-    type Output = i32;
-    fn add(self,rhs:i32)->i32{
-        self+rhs
-    }
-}
+type state =Vec<i32>;
 fn main(){
-    let x:i32 = 1;
-    let z=x.add(3);
-    println!("{:?}",z);
-     
+   let x=&1;
+   if *x==1 {
+        println!("{}",x);
+   }
 }
-

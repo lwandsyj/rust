@@ -1,4 +1,6 @@
-fn main() {
+//1. for item in vec![]  会发生移动
+
+pub fn iter_learn_vec(){
     let mut b = vec!["a", "b", "c", "d"];
     b.push("e");
     // for in b 会发生move 移动
@@ -18,6 +20,4 @@ fn main() {
        x.push_str("1");
     }
     println!("{:?}",b);
-
-   
 }

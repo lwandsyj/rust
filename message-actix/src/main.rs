@@ -1,11 +1,16 @@
 use actix_web::{get, post, web, App, HttpResponse,HttpRequest, HttpServer, Responder,Result};
-
+mod config;
+mod controller;
+use config::mysql;
+use controller::user::{create_user};
+//use message_actix::config::mysql;
 use serde::Serialize;
 #[get("/")]
 async fn hello(req:HttpRequest) -> impl Responder {
     println!("{}",req.query_string());
+   let name=create_user();
     HttpResponse::Ok().json(IndexResponse{
-        message:"hello ".to_string()
+        message:name
     })
 }
 
@@ -36,4 +41,5 @@ async fn main() -> std::io::Result<()> {
     .bind("127.0.0.1:8088")?
     .run()
     .await
+    
 }

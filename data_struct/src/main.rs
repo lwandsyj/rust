@@ -30,14 +30,9 @@ pub fn three_sum(nums: Vec<i32>) -> Vec<Vec<i32>> {
     println!("{:?}",map);
     arr_rtn
 }
-fn main(){
-   
-    let x =vec![1,2,3,4];
-    let index:i32=0;
-    let index_1:usize=1;
-    // 索引类型为usize 类型
-    let y=x[index_1];
-    // 索引类型为i32
-    let z =x[index];
+fn main(){   
+   let v=["hello".to_string(),"world".to_string()];
+   let x=v[0];
+   println!("{:?}",x);
    
 }

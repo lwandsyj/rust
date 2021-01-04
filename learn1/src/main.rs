@@ -1,13 +1,18 @@
-fn main() {
-   let a =String::from("hello");
-   let b=String::from("world");
-   for i in a.chars(){
-       println!("{}",i);
-   }
-   let len=a.len();
-   for i in 0..len{
-       let item=a.chars().into_iter().nth(i);
-       println!("{:?}",item.unwrap());
-   }
-
+#[derive(Debug)]
+struct Student{
+    name:String,
+    age:i32
+}
+impl Student {
+    fn set_age(&mut self,name:String){
+        self.name=name;
+    }
+}
+fn main(){
+    let mut stu=Student{
+        name:String::from("zhangsan"),
+        age:12
+    };
+    stu.set_age(String::from("lisi"));
+    println!("{:?}",stu);
 }
